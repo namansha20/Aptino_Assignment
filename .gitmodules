@@ -1,0 +1,3 @@
+[submodule "aptino-claim-engine"]
+	path = aptino-claim-engine
+	url = https://github.com/namansha20/aptino-claim-engine.git
